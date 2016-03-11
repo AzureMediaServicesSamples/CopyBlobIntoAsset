@@ -1,3 +1,3 @@
 # CopyBlobIntoAsset
 
-This sample was moved to [this](https://github.com/Azure-Samples/media-services-dotnet-copy-blob-into-asset/tree/master/CopyBlobIntoAsset) location.
+This sample was moved to [this](https://azure.microsoft.com/documentation/samples/media-services-dotnet-copy-blob-into-asset/) location.
